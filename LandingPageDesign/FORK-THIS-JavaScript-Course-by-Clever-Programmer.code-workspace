@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../webdevelopment/FORK-THIS-JavaScript-Course-by-Clever-Programmer"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../webdevelopment"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "CodeSoft_Projects"
+	}
+}
